@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: Bubble sort is best in ordered sequences, worst in reverse sequences, the time complexity is n and n^2
+
+sort2 uses: merge sort
+
+How do you know?: Merge sort is fast on average, nlogn
+
+sort3 uses: selection sort
+
+How do you know?: Selection sort is slow on average, n^2
